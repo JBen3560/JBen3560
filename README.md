@@ -7,7 +7,7 @@
 - 📖 Right now, I'm learning the basics of web design and software engineering.
 - 💬 So far I've picked up C, C++, Java, Python, and some HTML and JS, but I'm always looking for more.
 - 🔎 I'd like to learn more about cybersecurity and game design if I get the chance going forward.
-- 👍 I haven't worked on any projects of note so far, but if I do you'll be like, like, the third to know!
+- 👍 Some of my favorite projects so far are some of my automated solvers for various puzzles and games, check them out!
 ### Where am I now?
 - 📍 Probably on Clemson campus, but if you happen to be looking for college students as interns, I could be wherever you are!
 - 📧 If you want to each out to me, try my creatively named email joeybenich@gmail.com.
